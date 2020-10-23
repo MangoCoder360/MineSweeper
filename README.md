@@ -1,3 +1,3 @@
 # MineSweeper
 
-https://github.com/MangoCoder360/MineSweeper
+https://mangocoder360.github.io/MineSweeper/
