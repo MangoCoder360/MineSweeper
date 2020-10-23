@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: lime;
+  font-family: monospace;
+}
+table {margin: auto;}
+.sqaure {
+  height: 30px;
+  width: 30px;
+  line-height: 30px;
+  border-style: dashed;
+  background-color: white;
+}
